@@ -115,7 +115,7 @@ export class App {
       link: this.githubUrl,
     },
     {
-      title: 'Portfolio Rebuild',
+      title: 'Portfolio',
       description:
         'A modern personal portfolio built in Angular to present my skills, projects, and developer profile in a clean and professional way.',
       tech: ['Angular', 'SCSS', 'TypeScript'],
@@ -123,12 +123,12 @@ export class App {
       link: this.githubUrl,
     },
     {
-      title: 'More Projects Coming',
+      title: 'MeniSpot',
       description:
-        'This section is ready for the next projects I will add, including real deployments, case studies, and improvements as I grow.',
-      tech: ['Angular', '.NET', 'GitHub'],
-      accent: 'NP',
-      link: this.githubUrl,
+        'A digital menu platform for restaurants, cafes, and bars with QR access, theme customization, menu management, and a central admin workflow.',
+      tech: ['Angular', '.NET 10', 'PostgreSQL', 'Tailwind'],
+      accent: 'MS',
+      link: 'https://github.com/AlijaHodzic/MeniSpot',
     },
   ];
 
